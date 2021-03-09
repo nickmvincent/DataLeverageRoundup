@@ -1,4 +1,20 @@
 # Data Leverage Roundup
+Powerful data-dependent technologies rely on the public (including you and everyone you know) to fuel them with data. This means collective action that involves withholding, deleting, manipulating, and/or transfering data can help the public exert [data leverage](https://arxiv.org/abs/2012.09995) against technology companies, potentially pushing for meaningful change (which could range from taking privacy more seriously to [making serious changes to the data economy](https://www.datadividends.org/)).
+
+For more info, see the [paper](https://arxiv.org/abs/2012.09995) or this [recent](https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/) [coverage](https://fortune.com/2021/02/23/your-data-is-a-weapon-that-can-help-change-corporate-behavior/) of data leverage.
+
+
+This document inncludes a roundup of
+* tools for data leverage
+* tools that might motivate data leverage
+* data leverage in the news
+* active social movements using data leverage and those with similar goals
+* important areas of active research
+* resources for picking alternative products
+
+
+
+This is by no means complete and we welcome contributions! See "Contributing" at the bottom of this document.
 
 ## Data Leverage Tools
 Tools that can be used for data leverage.
@@ -14,8 +30,7 @@ Tools that can be used for data leverage.
   - Provides suggestions for increasing your tracking protection
   - Provides a primer on ["browser fingerprinting"](https://coveryourtracks.eff.org/about#browser-fingerprinting)
 - [Ghostery](https://www.ghostery.com/) - "Ghostery demystifies online privacy by exposing the forces that lurk behind your screen and enabling you to block them."
-  - A suite of tracking blockers and blockers
-  - Free Version, with paid upgrades such as customization, VPN, etc.
+  - Free suite of tracking blockers, with paid upgrades such as customization, VPN, etc.
 - [DuckDuckGo's Mobile App](https://duckduckgo.com/app) - "Seamlessly take control of your personal information, no matter where the Internet takes you."
 - [Tor](https://www.torproject.org/) - "Defend yourself against tracking and surveillance. Circumvent censorship."
 
@@ -41,7 +56,7 @@ being used to track you."
 - [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) - "Image 'Cloaking' for Personal Privacy"
 
 #### Contact Data
-- [fake_contacts](https://github.com/BillDietrich/fake_contacts)
+- [fake_contacts](https://github.com/BillDietrich/fake_contacts) - "feeds fake data to any apps or companies who are copying our private data to use or sell it"
 
 #### NLP
 - [Customizing Triggers with Concealed Data Poisoning](https://www.ericswallace.com/poisoning) - "controls model predictions whenever a desired trigger phrase appears in the input"
@@ -51,6 +66,13 @@ being used to track you."
 - [How to Download Your Twitter Achive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
 
 - [The Data Transfer Project](https://datatransferproject.dev/) - "a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms."
+
+- [Solid](https://solidproject.org/) - "Your data, your choice.
+Advancing Web standards to empower people."
+
+- [Building data liberation infrastructure](https://beepb00p.xyz/exports.html) - How to export, access and own your personal data with minimal effort
+
+- [Promnesia](https://beepb00p.xyz/promnesia.html) - "Promnesia is a browser extension (Chrome/Firefox/Firefox mobile) that serves as a web surfing copilot by enhancing your browsing history, improving your web exploration experience, and integrating with your knowledge base."
 
 
 ## Motivating Data Leverage
@@ -95,13 +117,10 @@ A roundup of movements and initatives with connections to data leverage and news
   - [Data Poisoning Attacks and Defenses to Crowdsourcing Systems] (https://arxiv.org/abs/2102.09171)
 
 ## Resources for Picking Alternative Products
-- [TechCrunch: https://techcrunch.com/2021/01/10/these-6-browser-extensions-will-immediately-improve-your-privacy-online/](https://techcrunch.com/2021/01/10/these-6-browser-extensions-will-immediately-improve-your-privacy-online/)
-- [alternativeto](https://alternativeto.net/)
-  - A database for searching "I want an alternative to..."
-- [nomoregoogle](https://nomoregoogle.com/)
-  - A guide to google alternatives.
-- [r/privacy's guide to de-google](https://old.reddit.com/r/privacy/wiki/de-google)
-  -the r/privacy subreddit's guide to google alternatives
+- [TechCrunch, 2021: These 6 browser extensions will protect your privacy online](https://techcrunch.com/2021/01/10/these-6-browser-extensions-will-immediately-improve-your-privacy-online/)
+- [alternativeto](https://alternativeto.net/) - A database for searching "I want an alternative to..."
+- [nomoregoogle](https://nomoregoogle.com/) - A guide to google alternatives.
+- [r/privacy's guide to de-google](https://old.reddit.com/r/privacy/wiki/de-google) -the r/privacy subreddit's guide to google alternatives
 - [NYT, 2020 - "Our Favorite Ad Blockers and Browser Extensions to Protect Privacy"](https://www.nytimes.com/wirecutter/reviews/our-favorite-ad-blockers-and-browser-extensions-to-protect-privacy/)
 
 ## Contributing
@@ -112,4 +131,8 @@ Some general goals for this page:
 - Let links mostly speak for themselves. To start, we've include a brief quote from each link that tries to give a high-level summary.
 - For each link, we also include a very brief summary and highlight unique strengths
   - Was the tool designed with explicit concessions in mind? In other words, are users of the tool already actively working to *exert leverage*?
+  - Does the tool work well for collective action?
+  - etc.
 - Emphasize tools that are particularly easy to use. We're eager for people to share their experiences using these tools.
+
+In addition to content contributions, we're also in interested in feedback about what kinds of structured information would be useful. In particular, we hope to eventually create structured data (for instance, a CSV file) that describes data leverage tools. What attributes (i.e. columns) would you like to see? 
