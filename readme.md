@@ -38,7 +38,7 @@ Tools that can be used for data leverage.
 being used to track you."
   -Upload your images to get a perturbed copy
 - [adversarial.io](https://adversarial.io/about/) - "easy-to-use webapp for altering image material, in order to make it machine-unreadable. "
-- [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) - "Image "Cloaking" for Personal Privacy"
+- [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) - "Image 'Cloaking' for Personal Privacy"
 
 #### Contact Data
 - [fake_contacts](https://github.com/BillDietrich/fake_contacts)
@@ -56,10 +56,10 @@ being used to track you."
 ## Motivating Data Leverage
 - [Exposing.AI](https://exposing.ai/about/) - "Check if your Flickr photos were used to build face recognition"
   - searches datasets so you can figure out if your images had been used in facial recognition datasets
-  - Connection data strikes: could be useful in raising public awareness about how image data is being used
-- [Big Tech Detective](https://bigtechdetective.net/) - "look like without big tech companies? "
+  - Connection with data strikes: could be useful in raising public awareness about how image data is being used
+- [Big Tech Detective](https://bigtechdetective.net/) - "What would the web look like without big tech companies? "
 - [NYT - "The Secretive Company That Might End Privacy as We Know It"](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
-- [The sad state of personal data and infrastructure](https://beepb00p.xyz/sad-infra.html) - 
+- [The sad state of personal data and infrastructure](https://beepb00p.xyz/sad-infra.html) 
 
 
 ## Data Leverage in the News
@@ -67,7 +67,7 @@ A roundup of movements and initatives with connections to data leverage and news
 - [WSJ - "Google to Stop Selling Ads Based on Your Specific Web Browsing "](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
   - [See also the EFF's related commentary](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
 - [Wired - "How To Stop Instagram From Tracking Everything You Do"](https://www.wired.com/story/how-to-stop-instagram-from-tracking-everything-you-do/) 
-- [Fast Company - ](https://www.fastcompany.com/90516050/giving-facebook-less-data-is-a-good-idea-even-better-just-use-it-less)
+- [Fast Company - "Giving Facebook less data is a good idea. Even better: Just use it less"](https://www.fastcompany.com/90516050/giving-facebook-less-data-is-a-good-idea-even-better-just-use-it-less)
 
 
 ## Active Social Movements using Data Leverage
@@ -87,10 +87,12 @@ A roundup of movements and initatives with connections to data leverage and news
 
 
 ## Important Areas of Active Research
-- Better Benchmarks for Data Poisoning]
+- Better Benchmarks for Data Poisoning
   - [Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557) - "we find that existing poisoning methods have been tested in contrived scenarios, and many fail in more realistic settings. In order to promote fair comparison in future work, we develop standardized benchmarks for data poisoning and backdoor attacks. "
 - Data Portability
   - [EFF on Data Portability](https://www.eff.org/deeplinks/2018/09/what-we-mean-when-we-say-data-portability)
+- Data Posioning Attacks to Crowdsourcing systems 
+  - [Data Poisoning Attacks and Defenses to Crowdsourcing Systems] (https://arxiv.org/abs/2102.09171)
 
 ## Resources for Picking Alternative Products
 - [TechCrunch: https://techcrunch.com/2021/01/10/these-6-browser-extensions-will-immediately-improve-your-privacy-online/](https://techcrunch.com/2021/01/10/these-6-browser-extensions-will-immediately-improve-your-privacy-online/)
@@ -110,4 +112,4 @@ Some general goals for this page:
 - Let links mostly speak for themselves. To start, we've include a brief quote from each link that tries to give a high-level summary.
 - For each link, we also include a very brief summary and highlight unique strengths
   - Was the tool designed with explicit concessions in mind? In other words, are users of the tool already actively working to *exert leverage*?
-- Emphasize tools that are particularly easy to use. We're eager for people to share their experiences using these tools..
+- Emphasize tools that are particularly easy to use. We're eager for people to share their experiences using these tools.
