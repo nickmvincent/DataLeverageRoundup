@@ -40,6 +40,11 @@ Tools that can be used for data leverage.
   - [Adblock Plus](https://adblockplus.org/)
   - [Adblock](https://getadblock.com/)
 
+#### Deletion Requests
+- [Mine](https://saymine.com/) - "Discover where your personal data is and manage your digital footprint."
+  - a tool for finding which companies have data about you and submitting deletion requests
+  - maintain a [table](https://saymine.com/privacy-in-action) with statistics about how quickly and frequently companies complete deletion requests
+
 ### Data Poisoning
 #### Ad Targeting
 - [AdNauseam](https://adnauseam.io/) - "clicking ads so you don't have to."
@@ -66,6 +71,8 @@ being used to track you."
 - [How to Download Your Twitter Achive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
 
 - [The Data Transfer Project](https://datatransferproject.dev/) - "a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms."
+
+- [OpenSCHUFA](https://www.startnext.com/en/openschufa) - "Are the scores created by SCHUFA, Germany's largest credit score company, unjust? Donate money or your SCHUFA data to help us find out. "
 
 - [Solid](https://solidproject.org/) - "Your data, your choice.
 Advancing Web standards to empower people."
@@ -109,12 +116,17 @@ A roundup of movements and initatives with connections to data leverage and news
 
 
 ## Important Areas of Active Research
+- Data Rights in Practice
+  - ["Shattering One-Way Mirrors. Data Subject Access Rights in Practice"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3106632)
+  - Ongoing or complete attempts to measure if deletion requests are fulfilled
+    - [from Mine](https://saymine.com/privacy-in-action)
 - Better Benchmarks for Data Poisoning
   - [Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557) - "we find that existing poisoning methods have been tested in contrived scenarios, and many fail in more realistic settings. In order to promote fair comparison in future work, we develop standardized benchmarks for data poisoning and backdoor attacks. "
 - Data Portability
   - [EFF on Data Portability](https://www.eff.org/deeplinks/2018/09/what-we-mean-when-we-say-data-portability)
-- Data Posioning Attacks to Crowdsourcing systems 
+- Data Poisoning Attacks to Crowdsourcing systems 
   - [Data Poisoning Attacks and Defenses to Crowdsourcing Systems] (https://arxiv.org/abs/2102.09171)
+
 
 ## Resources for Picking Alternative Products
 - [TechCrunch, 2021: These 6 browser extensions will protect your privacy online](https://techcrunch.com/2021/01/10/these-6-browser-extensions-will-immediately-improve-your-privacy-online/)
