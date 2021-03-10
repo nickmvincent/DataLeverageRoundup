@@ -4,13 +4,7 @@ Powerful data-dependent technologies rely on the public (including you and every
 For more info, see the [paper](https://arxiv.org/abs/2012.09995) or this [recent](https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/) [coverage](https://fortune.com/2021/02/23/your-data-is-a-weapon-that-can-help-change-corporate-behavior/) of data leverage.
 
 
-This document inncludes a roundup of
-* tools for data leverage
-* tools that might motivate data leverage
-* data leverage in the news
-* active social movements using data leverage and those with similar goals
-* important areas of active research
-* resources for picking alternative products
+This document includes a roundup of tools, news, social movements, civic initiatives, and resources related to data deverage.
 
 
 
@@ -99,12 +93,14 @@ A roundup of movements and initatives with connections to data leverage and news
 - [Fast Company - "Giving Facebook less data is a good idea. Even better: Just use it less"](https://www.fastcompany.com/90516050/giving-facebook-less-data-is-a-good-idea-even-better-just-use-it-less)
 
 
-## Active Social Movements using Data Leverage
+## Social Movements and Civic Initiatives
 - [Data Dividend Project](https://www.datadividendproject.com/)
 - [Consumer Reports tests "authorized agent opt-outs"](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-authorized-agents-can-empower-people-to-exercise-their-digital-privacy-rights-in-california/)
   - [More on the Digital Lab](https://digital-lab.consumerreports.org/)
 
-## Active Social Movements with Similar Goals
+-[Repair Cafés for Digital Rights](https://lsts.research.vub.be/repair-caf%C3%A9s-for-digital-rights) - "innovatively explores ways to make sure that the digital rights that individuals have are effectively strong"
+
+## Related Movements
 - State surveillance
     - [Surveillance Technology Oversight Project](https://www.stopspying.org/exposing-ai) - non-profit "working to abolish local governments’ systems of mass surveillance."
     - [Stop LAPD Spying Coalition](https://stoplapdspying.org/) - "Our vision is the dismantling of government-sanctioned spying and intelligence gathering, in all its multiple forms."
