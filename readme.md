@@ -9,10 +9,10 @@ This document includes a roundup of tools, news, social movements, civic initiat
 
 This is by no means complete and we welcome contributions! See "Contributing" at the bottom of this document.
 
-## How is this different from initiatives related to data protection, obfuscation, surveillance, etc.?
-As we hope to show you below, data leverage draws *heavily* on tools, movements, initiatives, and research related to all the above topics. Data leverage focuses on gain leverage to win concessions for the public from large, powerful organizations. In other words, many (if not most) efforts related to data protection, privacy, obfuscation, and surveillance can *also* help to advance data leverage. We've also tried to highlight some active research in these areas below!
+## How is this different from initiatives related to data protection, privacy, obfuscation, surveillance, etc.?
+As we hope to show you below, data leverage draws *heavily* on tools, movements, initiatives, and research related to all the above topics. Data leverage focuses on gaining leverage to win concessions for the public from large powerful organizations. In other words, many (if not most) efforts related to data protection, privacy, obfuscation, and surveillance can *also* help to advance data leverage. We've also tried to highlight some active research in these areas below!
 
-In short: this document is not just about "tools for data leverage"; it is about "tools that support data leverage".
+In short: this document is not just about "tools developed for data leverage"; it is about "tools (developed for many purposes) that support data leverage".
 
 # Tools that Support Data Leverage
 
