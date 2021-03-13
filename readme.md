@@ -40,20 +40,19 @@ In short: this document is not just about "tools developed for data leverage"; i
 ### Deletion Requests
 - [Mine](https://saymine.com/) - "Discover where your personal data is and manage your digital footprint."
   - a tool for finding which companies have data about you and submitting deletion requests
-  - maintain a [table](https://saymine.com/privacy-in-action) with statistics about how quickly and frequently companies complete deletion requests
+  - website includes a [table](https://saymine.com/privacy-in-action) with statistics about how quickly and frequently companies complete deletion requests
 
 ## Data Poisoning
 ### Ad Targeting
 - [AdNauseam](https://adnauseam.io/) - "clicking ads so you don't have to."
-  - Summary: Browser extension that "clicks" every ad your browser sees.
-  - Supports the broader strategy of *obfuscation*.
+  - Browser extension that "clicks" every ad your browser sees, as a form of *obfuscation*.
 ### Search
 - [TrackMeNot](http://trackmenot.io/) - "With TrackMeNot, actual web searches, lost in a cloud of false leads, are essentially hidden in plain view."
-  - [paper](http://trackmenot.io/resources/trackmenot2009.pdf)
+  - See this [paper](http://trackmenot.io/resources/trackmenot2009.pdf) about the project.
 ### Images
 - [LowKey](https://lowkey.umiacs.umd.edu/) - "Prevent your images from
 being used to track you."
-  -Upload your images to get a perturbed copy
+  -Upload your images to get a perturbed copy.
 - [adversarial.io](https://adversarial.io/about/) - "easy-to-use webapp for altering image material, in order to make it machine-unreadable. "
 - [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) - "Image 'Cloaking' for Personal Privacy"
 
@@ -83,7 +82,7 @@ Advancing Web standards to empower people."
 Many tools have focused on showing how our data is used and how pervasive data collection systems are. These may be very useful for convincing people to join data leverage movements.
 
 - [Exposing.AI](https://exposing.ai/about/) - "Check if your Flickr photos were used to build face recognition"
-  - searches datasets so you can figure out if your images had been used in facial recognition datasets
+  - Search to find if your images have been used in facial recognition datasets
   - Connection with data strikes: could be useful in raising public awareness about how image data is being used
 - [Big Tech Detective](https://bigtechdetective.net/) - "What would the web look like without big tech companies? "
 - [NYT - "The Secretive Company That Might End Privacy as We Know It"](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
@@ -93,10 +92,10 @@ Many tools have focused on showing how our data is used and how pervasive data c
 # Data Leverage in the News
 A roundup of movements and initatives with connections to data leverage and news coverage of data leverage-related events.
 
-- [WSJ - "Google to Stop Selling Ads Based on Your Specific Web Browsing "](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
-  - [See also the EFF's related commentary](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
 - [Wired - "How To Stop Instagram From Tracking Everything You Do"](https://www.wired.com/story/how-to-stop-instagram-from-tracking-everything-you-do/) 
 - [Fast Company - "Giving Facebook less data is a good idea. Even better: Just use it less"](https://www.fastcompany.com/90516050/giving-facebook-less-data-is-a-good-idea-even-better-just-use-it-less)
+- [WSJ - "Google to Stop Selling Ads Based on Your Specific Web Browsing "](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
+  - [See also the EFF's related commentary](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
 
 
 # Data Related Social Movements and Civic Initiatives
@@ -109,11 +108,13 @@ A roundup of movements and initatives with connections to data leverage and news
 ## Related Movements
 There are many ongoing social movements with goals that are very aligned with data leverage (e.g. addressing negative impacts of computing, reducing power imbalance between the public and tech companies).
 ### Surveillance
-    - [Surveillance Technology Oversight Project](https://www.stopspying.org/exposing-ai) - non-profit "working to abolish local governments’ systems of mass surveillance."
-    - [Stop LAPD Spying Coalition](https://stoplapdspying.org/) - "Our vision is the dismantling of government-sanctioned spying and intelligence gathering, in all its multiple forms."
+- [Surveillance Technology Oversight Project](https://www.stopspying.org/exposing-ai) - non-profit "working to abolish local governments’ systems of mass surveillance."
+- [Stop LAPD Spying Coalition](https://stoplapdspying.org/) - "Our vision is the dismantling of government-sanctioned spying and intelligence gathering, in all its multiple forms."
 ### Harms of Facial Recognition
-  - [Ban Facial Recognition](https://www.banfacialrecognition.com/)
-  - [Nature News, 2020 - "Resisting the rise of facial recognition"](https://www.nature.com/articles/d41586-020-03188-2) - an overview of many efforts to mitigate negative impacts of facial recognition
+- [Ban Facial Recognition](https://www.banfacialrecognition.com/)
+- [Nature News, 2020 - "Resisting the rise of facial recognition"](https://www.nature.com/articles/d41586-020-03188-2) - an overview of many efforts to mitigate negative impacts of facial recognition
+- [CACM, 2021 - "Can the Biases in Facial Recognition Be Fixed; Also, Should They?"](https://cacm.acm.org/magazines/2021/3/250698-can-the-biases-in-facial-recognition-be-fixed-also-should-they/fulltext)
+  - Part of a for those in computing to push back on facial recognition 
 ### Harms of Social Media
   - [Center for Humane Technology](https://www.humanetech.com/)   
 
