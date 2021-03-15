@@ -64,16 +64,22 @@ being used to track you."
 
 ## Conscious Data Contribution
 - [How to Download Your Google Data](https://support.google.com/accounts/answer/3024190?hl=en)
+  - Official help docs from Google
 - [How to Download Your Twitter Achive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
+  - Official help docs from Twitter
 
 - [The Data Transfer Project](https://datatransferproject.dev/) - "a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms."
+  - "DTP is still in very active development"
+  - Currently only usable with some coding experience. See [bottom of this page](https://datatransferproject.dev/documentation).
 
 - [OpenSCHUFA](https://www.startnext.com/en/openschufa) - "Are the scores created by SCHUFA, Germany's largest credit score company, unjust? Donate money or your SCHUFA data to help us find out. "
+  - highly successful "data donation" project in Germany
 
 - [Solid](https://solidproject.org/) - "Your data, your choice.
 Advancing Web standards to empower people."
 
-- [Building data liberation infrastructure](https://beepb00p.xyz/exports.html) - How to export, access and own your personal data with minimal effort
+- [Building data liberation infrastructure](https://beepb00p.xyz/exports.html) - "How to export, access and own your personal data with minimal effort"
+  - highly comprehensive post covering design principles and practical technqiues for managing many sources and types of data
 
 - [Promnesia](https://beepb00p.xyz/promnesia.html) - "Promnesia is a browser extension (Chrome/Firefox/Firefox mobile) that serves as a web surfing copilot by enhancing your browsing history, improving your web exploration experience, and integrating with your knowledge base."
 
