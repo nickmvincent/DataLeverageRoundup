@@ -14,6 +14,13 @@ As we hope to show you below, data leverage draws *heavily* on tools, movements,
 
 In short: this document is not just about "tools developed for data leverage"; it is about "tools (developed for many purposes) that support data leverage".
 
+## Is Data Leverage About Bring Down Data-dependent Technologies?
+Not necessarily! While some data levers (specifically, strikes and poisoning) involve lowering the performance of a data-dependent technology, data leverage can also involve boosting up a data-dependent technology and contributing to knowledge artifacts (conscious data contribution).
+
+There is active research on identifying the harms of different technologies. See, for instance, the [ACM FAccT Conference](https://facctconference.org/2021/). This research will be especially useful in navigating the ethics of data leverage: which technologies *should* be harmed and which *should* be helped? These are tough, inherently contextual and political questions that will require deep societal conversations involving many perspectives.
+
+That said, there is some overlap between data leverage and active movements aimed at mitigatng the impacts of harmful technologies (with harm, of course, being contexually defined). See below for more.
+
 # Tools that Support Data Leverage
 
 ## Data Strikes
@@ -38,6 +45,7 @@ In short: this document is not just about "tools developed for data leverage"; i
   - [Adblock](https://getadblock.com/)
 
 ### Deletion Requests
+- [ethi](https://www.ethi.me/) - "Control what big tech knows about you"
 - [Mine](https://saymine.com/) - "Discover where your personal data is and manage your digital footprint."
   - a tool for finding which companies have data about you and submitting deletion requests
   - website includes a [table](https://saymine.com/privacy-in-action) with statistics about how quickly and frequently companies complete deletion requests
@@ -63,6 +71,16 @@ being used to track you."
 - [Customizing Triggers with Concealed Data Poisoning](https://www.ericswallace.com/poisoning) - "controls model predictions whenever a desired trigger phrase appears in the input"
 
 ## Conscious Data Contribution
+### build personal data infrastructure now
+- [Building data liberation infrastructure](https://beepb00p.xyz/exports.html) - "How to export, access and own your personal data with minimal effort"
+  - highly comprehensive post covering design principles and practical technqiues for managing many sources and types of data
+
+- [Promnesia](https://beepb00p.xyz/promnesia.html) - "Promnesia is a browser extension (Chrome/Firefox/Firefox mobile) that serves as a web surfing copilot by enhancing your browsing history, improving your web exploration experience, and integrating with your knowledge base."
+
+- [Solid](https://solidproject.org/) - "Your data, your choice.
+Advancing Web standards to empower people."
+
+### Downloading Data from Tech Companies
 - [How to Download Your Google Data](https://support.google.com/accounts/answer/3024190?hl=en)
   - Official help docs from Google
 - [How to Download Your Twitter Achive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
@@ -72,16 +90,10 @@ being used to track you."
   - "DTP is still in very active development"
   - Currently only usable with some coding experience. See [bottom of this page](https://datatransferproject.dev/documentation).
 
-- [OpenSCHUFA](https://www.startnext.com/en/openschufa) - "Are the scores created by SCHUFA, Germany's largest credit score company, unjust? Donate money or your SCHUFA data to help us find out. "
-  - highly successful "data donation" project in Germany
 
-- [Solid](https://solidproject.org/) - "Your data, your choice.
-Advancing Web standards to empower people."
 
-- [Building data liberation infrastructure](https://beepb00p.xyz/exports.html) - "How to export, access and own your personal data with minimal effort"
-  - highly comprehensive post covering design principles and practical technqiues for managing many sources and types of data
 
-- [Promnesia](https://beepb00p.xyz/promnesia.html) - "Promnesia is a browser extension (Chrome/Firefox/Firefox mobile) that serves as a web surfing copilot by enhancing your browsing history, improving your web exploration experience, and integrating with your knowledge base."
+
 
 
 # Motivating Data Leverage
@@ -110,6 +122,9 @@ A roundup of movements and initatives with connections to data leverage and news
   - [More on the Digital Lab](https://digital-lab.consumerreports.org/)
 
 -[Repair Cafés for Digital Rights](https://lsts.research.vub.be/repair-caf%C3%A9s-for-digital-rights) - "innovatively explores ways to make sure that the digital rights that individuals have are effectively strong"
+
+- [OpenSCHUFA](https://www.startnext.com/en/openschufa) - "Are the scores created by SCHUFA, Germany's largest credit score company, unjust? Donate money or your SCHUFA data to help us find out. "
+  - highly successful "data donation" project in Germany
 
 ## Related Movements
 There are many ongoing social movements with goals that are very aligned with data leverage (e.g. addressing negative impacts of computing, reducing power imbalance between the public and tech companies).
