@@ -1,7 +1,7 @@
 # Data Leverage Roundup
 
 ## What's Data Leverage?
-Powerful data-dependent technologies rely on the public (including you and everyone you know) to fuel them with data. This means collective action that involves withholding, deleting, manipulating, and/or transfering data can help the public exert [data leverage](https://arxiv.org/abs/2012.09995) against technology companies, potentially pushing for meaningful change (which could range from taking privacy more seriously to [making serious changes to the data economy](https://www.datadividends.org/)).
+Powerful data-dependent technologies rely on the public (including you and everyone you know) to fuel them with data. This means collective action that involves withholding, deleting, manipulating, and/or transfering data can help the public exert [data leverage](https://arxiv.org/abs/2012.09995) against technology companies, potentially pushing for meaningful change (which could range from taking privacy more seriously to [making changes to the data economy](https://www.datadividends.org/)).
 
 For more info, see the [paper](https://arxiv.org/abs/2012.09995) or this [recent](https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/) [coverage](https://fortune.com/2021/02/23/your-data-is-a-weapon-that-can-help-change-corporate-behavior/) of data leverage.
 
@@ -14,10 +14,10 @@ As we hope to show you below, data leverage draws *heavily* on tools, movements,
 
 In short: this document is not just about "tools developed for data leverage"; it is about "tools (developed for many purposes) that support data leverage".
 
-## Is Data Leverage About Bring Down Data-dependent Technologies?
+## Is Data Leverage About Bringing Down Data-dependent Technologies?
 Not necessarily! While some data levers (specifically, strikes and poisoning) involve lowering the performance of a data-dependent technology, data leverage can also involve boosting up a data-dependent technology and contributing to knowledge artifacts (conscious data contribution).
 
-There is active research on identifying the harms of different technologies. See, for instance, the [ACM FAccT Conference](https://facctconference.org/2021/). This research will be especially useful in navigating the ethics of data leverage: which technologies *should* be harmed and which *should* be helped? These are tough, inherently contextual and political questions that will require deep societal conversations involving many perspectives.
+There is active research on identifying the harms of different technologies. See, for instance, work in the [ACM FAccT Conference](https://facctconference.org/2021/). This research will be especially useful in navigating the ethics of data leverage: which technologies *should* be harmed and which *should* be helped? These are tough, inherently contextual and political questions that will require deep societal conversations involving many perspectives.
 
 That said, there is some overlap between data leverage and active movements aimed at mitigatng the impacts of harmful technologies (with harm, of course, being contexually defined). See below for more.
 
@@ -91,11 +91,6 @@ Advancing Web standards to empower people."
   - Currently only usable with some coding experience. See [bottom of this page](https://datatransferproject.dev/documentation).
 
 
-
-
-
-
-
 # Motivating Data Leverage
 Many tools have focused on showing how our data is used and how pervasive data collection systems are. These may be very useful for convincing people to join data leverage movements.
 
@@ -135,12 +130,14 @@ There are many ongoing social movements with goals that are very aligned with da
 - [Ban Facial Recognition](https://www.banfacialrecognition.com/)
 - [Nature News, 2020 - "Resisting the rise of facial recognition"](https://www.nature.com/articles/d41586-020-03188-2) - an overview of many efforts to mitigate negative impacts of facial recognition
 - [CACM, 2021 - "Can the Biases in Facial Recognition Be Fixed; Also, Should They?"](https://cacm.acm.org/magazines/2021/3/250698-can-the-biases-in-facial-recognition-be-fixed-also-should-they/fulltext)
-  - Part of a for those in computing to push back on facial recognition 
 ### Harms of Social Media
   - [Center for Humane Technology](https://www.humanetech.com/)   
 
 
 # Important Areas of Active Research
+This is not meant to be comprehensive, but rather provide some helpful starting points anyone interested in the research in this space.
+
+
 ## Contesting Optimization Systems
 - [Protective Optimization Technologies](https://arxiv.org/abs/1806.02711) - "POTs provide means for affected parties to address the negative impacts of systems in the environment, expanding avenues for political contestation."
 
@@ -150,12 +147,15 @@ There are many ongoing social movements with goals that are very aligned with da
   - [from Mine](https://saymine.com/privacy-in-action)
 - [Researching with Data Rights](https://techreg.org/index.php/techreg/article/view/61) - "This article positions data rights as a useful tool in researchers’ toolbox to obtain access to enclosed datasets"
   - Can gain "informational leverage" over firms
+
 ## Reproducible Research on Data Poisoning
 - [Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557) - "we find that existing poisoning methods have been tested in contrived scenarios, and many fail in more realistic settings. In order to promote fair comparison in future work, we develop standardized benchmarks for data poisoning and backdoor attacks. "
+
 ## Data Portability
 - [EFF on Data Portability](https://www.eff.org/deeplinks/2018/09/what-we-mean-when-we-say-data-portability)
+
 ## Data Poisoning and Crowdsourcing systems 
-- [Data Poisoning Attacks and Defenses to Crowdsourcing Systems] (https://arxiv.org/abs/2102.09171)
+- [Data Poisoning Attacks and Defenses to Crowdsourcing Systems](https://arxiv.org/abs/2102.09171)
   - Data poisoning is not unique to "machine learning".
 
 
