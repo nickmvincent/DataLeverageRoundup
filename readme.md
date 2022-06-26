@@ -5,21 +5,21 @@ Powerful data-dependent technologies rely on the public (including you and every
 
 For more info, see the [paper](https://arxiv.org/abs/2012.09995) or this [recent](https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/) [coverage](https://fortune.com/2021/02/23/your-data-is-a-weapon-that-can-help-change-corporate-behavior/) of data leverage.
 
-This document includes a roundup of tools, news, social movements, civic initiatives, and resources related to data deverage.
+The goal of this repository/document is to provide a roundup of tools, news, social movements, civic initiatives, and resources related to data leverage.
 
 This is by no means complete and we welcome contributions! See "Contributing" at the bottom of this document.
 
 ## How is this different from initiatives related to data protection, privacy, obfuscation, surveillance, etc.?
-As we hope to show you below, data leverage draws *heavily* on tools, movements, initiatives, and research related to all the above topics. Data leverage focuses on gaining leverage to win concessions for the public from large powerful organizations. In other words, many (if not most) efforts related to data protection, privacy, obfuscation, and surveillance can *also* help to advance data leverage. We've also tried to highlight some active research in these areas below!
+As we hope to show you below, data leverage draws *heavily* on tools, movements, initiatives, and research related to all the above topics. Data leverage focuses on gaining leverage to win concessions for the public from large powerful organizations. In other words, many (if not most) efforts related to data protection, privacy, obfuscation, and surveillance can *also* help to advance data leverage. We've also tried to highlight some active research in these areas below.
 
 In short: this document is not just about "tools developed for data leverage"; it is about "tools (developed for many purposes) that support data leverage".
 
-## Is Data Leverage About Bringing Down Data-dependent Technologies?
-Not necessarily! While some data levers (specifically, strikes and poisoning) involve lowering the performance of a data-dependent technology, data leverage can also involve boosting up a data-dependent technology and contributing to knowledge artifacts (conscious data contribution).
+## Is Data Leverage About Bringing Down All Data-dependent Technologies?
+Not necessarily! While some data levers (specifically, data strikes and data poisoning) involve lowering the performance of a data-dependent technology, data leverage can also involve boosting up a data-dependent technology and contributing to knowledge artifacts (conscious data contribution).
 
-There is active research on identifying the harms of different technologies. See, for instance, work in the [ACM FAccT Conference](https://facctconference.org/2021/). This research will be especially useful in navigating the ethics of data leverage: which technologies *should* be harmed and which *should* be helped? These are tough, inherently contextual and political questions that will require deep societal conversations involving many perspectives.
+There is active research on identifying the harms of different technologies. See, for instance, work in the [ACM FAccT Conference](https://facctconference.org/2021/). This research can help us to navigate the ethics of data leverage: which technologies *should* be harmed and which *should* be helped? These are tough, inherently contextual and political questions that will require deep societal conversations involving many perspectives.
 
-That said, there is some overlap between data leverage and active movements aimed at mitigatng the impacts of harmful technologies (with harm, of course, being contexually defined). See below for more.
+That said, there is some overlap between data leverage and active movements aimed at mitigating the impacts of harmful technologies (with harm, of course, being contexually defined). See below for more.
 
 # Tools that Support Data Leverage
 
@@ -39,13 +39,12 @@ That said, there is some overlap between data leverage and active movements aime
 - [Tor](https://www.torproject.org/) - "Defend yourself against tracking and surveillance. Circumvent censorship."
 
 ### Advertising
-- There are many choices for ad blockers. Some popular ones include
+- There are many choices for ad blockers. Some popular ones include:
   - [uBlockOrigin](https://ublockorigin.com/)
   - [Adblock Plus](https://adblockplus.org/)
   - [Adblock](https://getadblock.com/)
 
 ### Deletion Requests
-- [ethi](https://www.ethi.me/) - "Control what big tech knows about you"
 - [Mine](https://saymine.com/) - "Discover where your personal data is and manage your digital footprint."
   - a tool for finding which companies have data about you and submitting deletion requests
   - website includes a [table](https://saymine.com/privacy-in-action) with statistics about how quickly and frequently companies complete deletion requests
@@ -60,7 +59,7 @@ That said, there is some overlap between data leverage and active movements aime
 ### Images
 - [LowKey](https://lowkey.umiacs.umd.edu/) - "Prevent your images from
 being used to track you."
-  -Upload your images to get a perturbed copy.
+  - Upload your images to get a perturbed copy.
 - [adversarial.io](https://adversarial.io/about/) - "easy-to-use webapp for altering image material, in order to make it machine-unreadable. "
 - [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) - "Image 'Cloaking' for Personal Privacy"
 
@@ -116,7 +115,7 @@ A roundup of movements and initatives with connections to data leverage and news
 - [Consumer Reports tests "authorized agent opt-outs"](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-authorized-agents-can-empower-people-to-exercise-their-digital-privacy-rights-in-california/)
   - [More on the Digital Lab](https://digital-lab.consumerreports.org/)
 
--[Repair Cafés for Digital Rights](https://lsts.research.vub.be/repair-caf%C3%A9s-for-digital-rights) - "innovatively explores ways to make sure that the digital rights that individuals have are effectively strong"
+- [Repair Cafés for Digital Rights](https://lsts.research.vub.be/repair-caf%C3%A9s-for-digital-rights) - "innovatively explores ways to make sure that the digital rights that individuals have are effectively strong"
 
 - [OpenSCHUFA](https://www.startnext.com/en/openschufa) - "Are the scores created by SCHUFA, Germany's largest credit score company, unjust? Donate money or your SCHUFA data to help us find out. "
   - highly successful "data donation" project in Germany
